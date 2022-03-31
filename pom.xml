@@ -7,7 +7,7 @@
     <version>1.0.0</version>
     <name>simple-quartz-job-webapp Maven Webapp</name>
     <properties>
-        <spring.version>4.3.18.RELEASE</spring.version>
+        <spring.version>5.3.18</spring.version>
         <quartz.version>2.3.2</quartz.version>
     </properties>
     <dependencies>
